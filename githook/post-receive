@@ -6,13 +6,11 @@ DESTDIR=../www
 PELICAN=../venv/bin/pelican
 test -x "$PELICAN" || exit
 echo "Publishing changes from master"
+
 TEMPDIR=$(mktemp -d ../tmpXXXXX)
 trap "rm -rf $TEMPDIR" EXIT
-
-git archive master | (
-    cd "$TEMPDIR"
-    tar x
-    "$PELICAN content -o $DESTDIR -s publishconf.py"
-    /sbin/restorecon -r "$DESTDIR"
-)
+git archive master | ( cd "$TEMPDIR"; tar x )
+cd $TEMPDIR
+"$PELICAN" content -o "$DESTDIR"
+/sbin/restorecon -r "$DESTDIR"
 echo "Done"
