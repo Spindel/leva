@@ -2,7 +2,7 @@
 
 Install a venv by doing `virtualenv -p /usr/bin/python3 venv`
 Add the publish remote:
-`git add remote publish ssh://leva.blue/srv/leva.blue/leva.blue.git`
+`git remote add publish ssh://leva.blue/srv/leva.blue/leva.blue.git`
 
 # Publishing
 

@@ -2,13 +2,17 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+PLUGINS = ['pelican_commonmark']
+
+
+
 AUTHOR = 'Klas Ljungmark'
 SITENAME = 'Leva Ltd.'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Stockholm'
 
 DEFAULT_LANG = 'en'
 
