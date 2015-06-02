@@ -1,0 +1,18 @@
+/* Solutions for mobile and small screens  */
+#banner {
+	min-height: 500px;
+}
+footer {
+  display: none;
+  }
+@media (max-width: 850px) {
+    #banner {
+	min-height: 300px;
+    }
+}
+
+@media (max-width: 650px) {
+    #banner {
+	min-height: 100px;
+    }
+}
