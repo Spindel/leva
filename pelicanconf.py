@@ -74,15 +74,17 @@ BOOTSTRAP_NAVBAR_INVERSE=True
 
 ABOUT_ME="""<div class='vcard'>
              <span class='fn'>Klas Ljungmark</span>
-             <div class='org'>Leva Ltd.</div>
-             <a class='email' href='mailto:klas@leva.blue'>klas@leva.blue</a>
+             <div class='org organization-name'>LEVA Ltd</div>
+             <div class='org organization-unit'>Co. No: 09507255</div>
              <div class="adr">
-                <div class="street-address">123 Street Street</div>
+                <div class="street-address">138 Marylebone Road</div>
                 <span class="locality">London</span>,
-                <abbr class="region" title="England">England</abbr>,
-                <span class="postal-code">000 999</span>
+                <span class="postal-code">NW1 5PH</span>
                 <div class="country-name">Great Britain</div>
             </div>
+            <a class='email' href='mailto:klas@leva.blue'>klas@leva.blue</a>
+            <div class="tel">+44 7470 83 57 54</div>
+            <div class="tel">+46 723 99 46 91</div>
             </div>
 """
 
