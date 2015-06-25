@@ -1,44 +1,17 @@
-Title: In Detail
+Title: About Klas
 category: In detail
+slug: in-detail
 
-När jag nu tänker på saken, förstår jag, att sagan, som
-jag talar om, måtte ha hållit till där en hel lång följd av år
-under sin fåfänga väntan på att bli berättad. Det tyckes mig,
-som måtte den ha omvärvt stället, som ett moln omsvävar en
-bergstopp, och gång efter annan lät den ett av de äventyr,
-varav den bestod, regna ner däröver. De kom som
-besynnerliga spökhistorier om brukspatronen, som alltid hade
-svarta tjurar för vagnen, när han om natten körde hem från
-ett gästabud. De kom som underliga sannsagor från
-granngården, där skatorna förföljde husmodern, så att hon inte
-vågade gå utom dörren, från kaptensbostället, där de var
-så fattiga, att allting måste lånas, och från den lilla
-stugan nere vid kyrkan, där det bodde en mängd unga och
-gamla flickor, som alla blev förälskade i en vacker
-orgelbyggare.
+Klas was a technical advisor at the [Society for Gas as a Marine Fuel](http://www.sgmf.info/) (SGMF), 
+a non-governmental organization based in London. Before that, he spent nine 
+years at the [Sweidsh Transport Agency](http://www.transportstyrelsen.se/sv/sjofart/Miljo-och-halsa/) Envirnoment (STA), working on regulatory questions
+about air emissions and alternative fuels, including LNG and methanol.
+ 
+During his time at the STA he was responsible for:
 
-Ibland kom de kära äventyren ännu påtagligare, så att
-säga, till gården. Gamla fattiga officerare åkte fram till
-förstutrappan efter uråldriga hästar i rangliga karrioler.
-De stannade kvar och gästade i veckotal, och om kvällarna,
-när toddyn hade satt mod i dem, började de berätta om den
-tiden, då de dansade utan strumpor i skorna, för att fötterna
-skulle synas små, då de brände sitt hår och svärtade sina
-mustascher. En av dem berättade hur han hade sökt återföra
-en vacker flicka till hennes fästman och blivit jagad av
-vargar på hemfärden, en annan hade varit med om
-julkalaset, då en vredgad gäst slängde alla järparna i väggen,
-därför att man hade inbillat honom, att det var kråkor,
-en tredje hade sett gubben, som brukade sitta och spela
-Beethoven vid ett träbord.
+* The regulatory part of making the Viking Grace LNG bunkering possible
+* The Bit Viking conversion to natural gas as fuel
+* The [Marpol](http://www.imo.org/en/About/Conventions/ListOfConventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-%28MARPOL%29.aspx) Annex VI and NTC NO<sub>x</sub> technical code 
+* Development of International Code of Safety for Ships using Gases or other Low flashpoint Fuels (IGF Code)
 
-Men sagan kunde även uppenbara sin närvaro på ett
-annat sätt. På vinden hängde ett gammalt porträtt av en
-dam i pudrat hår, och då någon gick förbi det, måste han
-ju påminna sig, att det föreställde den vackra grevedottern,
-som hade älskat sin brors unge informator och kommit för
-att se honom en gång, när hon var en gammal, grånad dam
-och han en gammal, gift man. I skräprummen låg stora
-högar med dokumentbuntar, som innehöll köpekontrakt och
-arrendeavtal, undertecknade av den mäktiga frun, som en
-
+Klas is a marine engineer and [Certified Expert in Maintainance Management](http://www.efnms.org/Experts-in-Maintenance-Management/m157l2/EFNMSvzw-European-Experts-in-Maintenance-Management.html), and has spent 18 years at sea in different types of ship.

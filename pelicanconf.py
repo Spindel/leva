@@ -63,7 +63,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-        ('In Detail', '/pages/in-detail.html'),
+        ('About Klas', '/pages/in-detail.html'),
         ('SGMF', 'http://www.sgmf.info/'),
 )
 
