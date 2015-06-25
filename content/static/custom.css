@@ -2,6 +2,9 @@
 #banner {
 	min-height: 500px;
 }
+#banner h1 {
+	text-transform: none;
+}
 footer {
   display: none;
   }
