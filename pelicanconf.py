@@ -7,7 +7,7 @@ PLUGINS = ['pelican_commonmark']
 
 
 AUTHOR = 'Klas Ljungmark'
-SITENAME = 'Leva Ltd.'
+SITENAME = 'LEVA Ltd.'
 SITEURL = ''
 
 PATH = 'content'
@@ -64,7 +64,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
         ('About Klas', '/pages/in-detail.html'),
-        ('SGMF', 'http://www.sgmf.info/'),
+#         ('SGMF', 'http://www.sgmf.info/'),
 )
 
 
