@@ -12,4 +12,4 @@ organizations, like [IMO](http://www.imo.org/), [STA](http://www.transportstyrel
 
 The goal is to help ship owners, nations and organizations to reduce air
 emissions and pollution. We do this through advising, interpretation of
-standards, regulations and legalislation.
+standards, regulations and legislation.
